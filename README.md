@@ -93,19 +93,6 @@ Use the `/Signup` endpoint or the signup page. Set `userType` to one of: `regist
 
 ---
 
-## 📄 Documentation
-
-The `/Documents` folder contains the full software engineering documentation for this project:
-
-- Software Requirements Specification (SRS)
-- Data Flow Diagram (DFD) & Data Dictionary
-- Class Diagram, Use Case Diagram
-- Sequence & Collaboration Diagrams
-- Activity / State Diagrams
-- Work Breakdown Structure
-
----
-
 ## 👤 User Roles
 
 | Role | Permissions |
